@@ -1,2 +1,2 @@
-# My-Portfolio
-Creation of my first portfolio in Github
+# MyPortfolioWebsite
+A lightweight, customizable personal portfolio website
